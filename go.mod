@@ -1,4 +1,4 @@
-module github.com/GabhenDM/echo-pprof
+module github.com/GabhenDM/echo-pprof/v2
 
 go 1.17
 
